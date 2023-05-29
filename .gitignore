@@ -1,2 +1,4 @@
 .github/**
 .DS_Store
+build/
+wxWidgets/
